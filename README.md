@@ -1,2 +1,3 @@
-# QLUI
-QingLite UI
+# QLUI (QingLite User Interface)
+Currently under development...
+If u have an idea, u can send your resume to the mailbox: [ceo@qinglite.com](mailto:ceo@qinglite.com "Click to Send Mail")
